@@ -22,10 +22,12 @@ body{
   text-align: center;
 }
 
-h1{
-  color:rgb(79, 151, 60); 
-text-align: center;
+h1 {
+  text-align: center;
+  background-color: rgb(207, 118, 111);
+  border: 10px solid rgb(238, 166, 166);
 }
+
 
 
 
