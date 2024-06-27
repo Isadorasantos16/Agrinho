@@ -29,14 +29,7 @@ p{
   color:rgb(79, 151, 60); ;
 text-align: center;
 
-img{
-  display: block;
-  margin: auto;
-  width: 750px;
-  border: solid 5px ;
-  padding: 5px;
-  border-radius: 10px;
-}
+
   /*Cabeçalho / Header */
 .cabecalho{
 
@@ -45,7 +38,12 @@ img{
 
 /*seções comuns ou seção 1*/
 .secao1{
-
+  display: block;
+  margin: auto;
+  width: 750px;
+  border: solid 5px ;
+  padding: 5px;
+  border-radius: 10px;
 }
 
 
