@@ -38,12 +38,7 @@ text-align: center;
 
 /*seções comuns ou seção 1*/
 .secao1{
-  display: block;
-  margin: auto;
-  width: 750px;
-  border: solid 5px ;
-  padding: 5px;
-  border-radius: 10px;
+  
 }
 
 
