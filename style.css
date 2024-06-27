@@ -24,6 +24,7 @@ body{
 h1{
   color:rgb(79, 151, 60); ;
 text-align: center;
+}
 
 p{
   color:rgb(79, 151, 60); ;
@@ -38,6 +39,7 @@ text-align: center;
   padding: 5px;
   border-radius: 10px;
 }
+
 h2{
   text-align: center;
   color: rgb(167, 79, 29);
