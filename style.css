@@ -28,6 +28,7 @@ text-align: center;
 p{
   color:rgb(79, 151, 60); ;
 text-align: center;
+}
 
 img{
   display: block;
@@ -37,4 +38,3 @@ img{
   padding: 5px;
   border-radius: 10px;
 }
-  
