@@ -68,5 +68,9 @@ text-align: left;
 }
 
 .Morangos_agricultura{
-  
+  background-image: url(img/Background.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-items: center;
+  text-align: center;
 }
