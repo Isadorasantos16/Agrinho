@@ -35,9 +35,8 @@ img{
   display: block;
   margin: auto;
   width: 800px;
-  border: solid 5px ;
   padding: 5px;
-  border-radius: 10px;
+  
 }
 
 h2{
@@ -48,4 +47,5 @@ h2{
 .secao1
 {
   background-color: rgb(255, 173, 173);
+  
 }
