@@ -45,11 +45,6 @@ h2{
 .secao1
 {
   background-color: rgb(162, 202, 138);
-    background-image: url(img/Background.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    align-items: center;
-    text-align: center;
 }
 
 .secao2
