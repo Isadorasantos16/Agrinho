@@ -76,10 +76,10 @@ text-align: left;
 }
 
 footer {
-  color: rgb(99, 122, 80);
+  color: rgb(0, 0, 0);
   text-align: center;
   height: 5em;
-  background-color:rgb(255, 255, 255);
+  background-color:rgb(25, 77, 23);
   /* alinha paragrafo verticalmente */
   display: flex;
   justify-content: center; /* Alinha horizontalmente */
