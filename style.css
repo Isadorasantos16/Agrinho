@@ -74,3 +74,18 @@ text-align: left;
   align-items: center;
   text-align: center;
 }
+
+footer {
+  color: rgb(75, 96, 40);
+  text-align: center;
+  height: 5em;
+  background-color:rgb(204, 212, 187);
+  /* alinha paragrafo verticalmente */
+  display: flex;
+  justify-content: center; /* Alinha horizontalmente */
+  align-items: center;  
+}
+
+footer p{
+  line-height: 1.0;
+}
